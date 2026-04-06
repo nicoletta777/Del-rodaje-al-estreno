@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Producción</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body class="produccion">
+
+<h1>Producción</h1>
+
+<a href="escena2.html">Siguiente</a>
+
+<br><br>
+
+<a href="index.html">Volver al inicio</a>
+
+</body>
+</html>
