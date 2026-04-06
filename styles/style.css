@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+}
+
+/* HOME */
+.home {
+  background: black;
+}
+
+/* ESCENAS */
+.produccion {
+  background: url("https://images.unsplash.com/photo-1485846234645-a62644f84728");
+}
+
+.rodaje {
+  background: url("https://images.unsplash.com/photo-1492724441997-5dc865305da7");
+}
+
+.edicion {
+  background: url("https://images.unsplash.com/photo-1518770660439-4636190af475");
+}
+
+.cine {
+  background: url("https://images.unsplash.com/photo-1505685296765-3a2736de412f");
+}
+
+/* BOTONES */
+a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: black;
+  color: white;
+  text-decoration: none;
+  border: 2px solid white;
+}
